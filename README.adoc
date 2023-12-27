@@ -1,0 +1,11 @@
+= DBUnit / ApplicationComposer Sample
+
+This is a modification of https://github.com/database-rider/database-rider/tree/1.41.0/rider-examples/dbunit-tomee-appcomposer-sample[original example] from DBRider 1.41.0 documentation.
+
+It has been modified to use:
+
+ * Jakarta EE packages
+ * Apache TomEE 9.1
+ * EclipseLink
+ * JUnit5
+
